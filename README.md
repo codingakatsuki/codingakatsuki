@@ -1,4 +1,5 @@
-<!- https://rahuldkjain.github.io/gh-profile-readme-generator/ --->
+<!--- readme genrator --->
+<!--- https://rahuldkjain.github.io/gh-profile-readme-generator/ --->
 
 <h1 align="center">Hi 👋, I'm Rohit Bhure</h1>
 <h3 align="center">A passionate FullStack & Android developer from India</h3>
