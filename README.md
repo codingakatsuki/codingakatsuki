@@ -1,6 +1,59 @@
 <!--- readme genrator --->
 <!--- https://rahuldkjain.github.io/gh-profile-readme-generator/ --->
 
+<!--- git command 
+Git config –global user.name “firstname last name”
+Git config –global user.email “webxgrafix@gmail.com”
+Git config –global user.name
+Git config –global user.email
+Git init
+Ls -lart
+Git status
+Git add path / file   // file go on staging area
+Git commit        or  Git commit -m “your commit”     // fist commit is initial commit
+Touch index.html contact.html 
+Git add -A              // for commit all file in single click
+Git checkout index.html // for maching last commit or restore code
+Git checkout -f // for maching all files for previous commit
+Git log // for checking all commit
+Git log -p -1 //for checking last 1 commit
+Q for exit
+Git diff // for comparing code from working tree
+Git diff –stage // for comparing staging are to last commit
+Git commit -a -m “skip staging area and fixed” // add and commit at same time but not recommended
+Git rm index.html // for removing staging area and delete
+Git rm –cached index.html // for removing staging area not using for delete and move to untracked
+
+Git status -s
+Touch .gitignore
+Add
+/mylog.log // for removing git ignore path there is present
+*.log // for removing all .log extension
+ignore/ // for ignore directory
+Git branch
+Git branch firstbranch
+Git checkout firstbranch 
+Git checkout master
+Git merge firstbrach // for using merge branch changes
+Git branch -b secondbranch // for using create branch and move on it at same time
+
+Make ripo
+Git remote ads origin url
+Git remote // for showing remote
+Git remote -v // remote url
+Go to setting and ssh and gpg key click generate ssh key to give access git to the computer
+Generate a new ssh key and adding to the ssh agent
+Copy ssh keygen and replace your email
+Eval $(ssh-agent -s)
+Ssh-add ~/.ssh/id_rsa 
+Cat ~/.ssh/id_rsa.pub
+Copy key
+And pest on new ssh key
+Convert https link to ssh
+git remote set-url origin
+Git push -u origin master
+Git push --->
+
 <h1 align="center">Hi 👋, I'm Rohit Bhure</h1>
 <h3 align="center">A passionate FullStack Web Developer & Android developer from India</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="webx grafix">
