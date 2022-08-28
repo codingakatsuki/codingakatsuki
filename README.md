@@ -44,6 +44,7 @@ Git remote -v // remote url
 Go to setting and ssh and gpg key click generate ssh key to give access git to the computer
 Generate a new ssh key and adding to the ssh agent
 Copy ssh keygen and replace your email
+ssh-keygen -t ed25519 -C "your_email@example.com"
 Eval $(ssh-agent -s)
 Ssh-add ~/.ssh/id_rsa 
 Adding a new SSH key to your GitHub account
