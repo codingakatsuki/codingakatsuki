@@ -71,11 +71,11 @@ Git push
 - 🔭 I’m currently working on [WebX GrafiX](https://webxgrafix.com)
 
 - 🌱 I’m currently learning **Java Script**
-
+<!-----
 - 👯 I’m looking to collaborate on [WebX GrafiX](https://webxgrafix.com)
 
 - 🤝 I’m looking for help with [WebX GrafiX](https://webxgrafix.com)
-
+--->
 - 👨‍💻 All of my projects are available at [https://github.com/webxgrafix0fficial](https://github.com/webxgrafix0fficial)
 
 - 📝 I regularly write articles on [https://webxgrafix.com](https://webxgrafix.com)
