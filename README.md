@@ -4,64 +4,61 @@
 <!--- git command 
 Git config –global user.name “firstname last name”
 Git config –global user.email “webxgrafix@gmail.com”
-Git config –global user.name // for visit name 
-Git config –global user.email // for visit email
+Git config –global user.name
+Git config –global user.email
 Git init
-Ls -lart // see hidden file
+Ls -lart
 Git status
-Git add path / file   // file go on staging area
+Git add path / file                                    // file go on staging area
 Git commit        or  Git commit -m “your commit”     // fist commit is initial commit
 Touch index.html contact.html 
-Git add -A              // for commit all file in single click
-Git checkout index.html // for maching last commit or restore code
-Git checkout -f // for maching all files for previous commit
-Git log // for checking all commit
-Git log -p -1 //for checking last 1 commit
+Git add -A                                              // for commit all file in single click
+Git checkout index.html                         // for maching last commit or restore code
+Git checkout -f                                       // for maching all files for previous commit
+Git log                                                    // for checking all commit
+Git log -p -1                                            // for checking last 1 commit
 Q for exit
-Git diff // for comparing code from working tree
-Git diff –stage // for comparing staging are to last commit
-Git commit -a -m “skip staging area and fixed” // add and commit at same time but not recommended
+Git diff                                                     // for comparing code from working tree
+Git diff –stage                                         // for comparing staging are to last commit
+Git commit -a -m “skip staging area and fixed”              // add and commit at same time but not recommended
 Git rm index.html // for removing staging area and delete
-Git rm –cached index.html // for removing staging area not using for delete and move to untracked
+Git rm –cached index.html                      // for removing staging area not using for delete and move to untracked
 
 Git status -s
 
 Touch .gitignore
-Add
-/mylog.log // for removing git ignore path there is present
-*.log // for removing all .log extension
-ignore/ // for ignore directory
+Add in .gitignore
+/mylog.log                                               // for removing git ignore path there is present
+*.log                                                        // for removing all .log extension
+ignore/                                                    // for ignore directory
 
 Git branch
 Git branch firstbranch
 Git checkout firstbranch 
 Git checkout master
-Git merge firstbrach // merge branch changes
-Git branch -b secondbranch // create branch and move on it at same time
+Git merge firstbrach                               // for using merge branch changes
+Git branch -b secondbranch                  // for using create branch and move on it at same time
 
-Make ripository
-Git remote ads origin url
-Git remote // for showing remote
-Git remote -v // remote url
-
+Make ripo
+Git remote add origin url
+Git remote                                              // for showing remote
+Git remote -v                                          // remote url
 Go to setting and ssh and gpg key click generate ssh key to give access git to the computer
 Generate a new ssh key and adding to the ssh agent
 
-Copy ssh keygen and replace your email
-ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen -t ed25519 -C webxgrafix@gmail.com  
 Eval $(ssh-agent -s)
-Ssh-add ~/.ssh/id_rsa 
-
-Adding a new SSH key to your GitHub account
+Ssh-add ~/.ssh/id_rsa
 Cat ~/.ssh/id_rsa.pub
 
-Copy key
-And pest on new ssh key
-
+Copy keyAnd pest on new ssh key
 Convert https link to ssh
+
 git remote set-url origin
 Git push -u origin master
-Git push -->
+Git push
+
+-->
 
 <h1 align="center">Hi 👋, I'm Rohit Bhure</h1>
 <h3 align="center">A passionate FullStack Web Developer & Android developer from India</h3>
