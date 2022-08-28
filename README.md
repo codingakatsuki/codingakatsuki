@@ -4,10 +4,10 @@
 <!--- git command 
 Git config –global user.name “firstname last name”
 Git config –global user.email “webxgrafix@gmail.com”
-Git config –global user.name
-Git config –global user.email
+Git config –global user.name // for visit name 
+Git config –global user.email // for visit email
 Git init
-Ls -lart
+Ls -lart // see hidden file
 Git status
 Git add path / file   // file go on staging area
 Git commit        or  Git commit -m “your commit”     // fist commit is initial commit
@@ -25,36 +25,43 @@ Git rm index.html // for removing staging area and delete
 Git rm –cached index.html // for removing staging area not using for delete and move to untracked
 
 Git status -s
+
 Touch .gitignore
 Add
 /mylog.log // for removing git ignore path there is present
 *.log // for removing all .log extension
 ignore/ // for ignore directory
+
 Git branch
 Git branch firstbranch
 Git checkout firstbranch 
 Git checkout master
-Git merge firstbrach // for using merge branch changes
-Git branch -b secondbranch // for using create branch and move on it at same time
+Git merge firstbrach // merge branch changes
+Git branch -b secondbranch // create branch and move on it at same time
 
-Make ripo
+Make ripository
 Git remote ads origin url
 Git remote // for showing remote
 Git remote -v // remote url
+
 Go to setting and ssh and gpg key click generate ssh key to give access git to the computer
 Generate a new ssh key and adding to the ssh agent
+
 Copy ssh keygen and replace your email
 ssh-keygen -t ed25519 -C "your_email@example.com"
 Eval $(ssh-agent -s)
 Ssh-add ~/.ssh/id_rsa 
+
 Adding a new SSH key to your GitHub account
 Cat ~/.ssh/id_rsa.pub
+
 Copy key
 And pest on new ssh key
+
 Convert https link to ssh
 git remote set-url origin
 Git push -u origin master
-Git push --->
+Git push -->
 
 <h1 align="center">Hi 👋, I'm Rohit Bhure</h1>
 <h3 align="center">A passionate FullStack Web Developer & Android developer from India</h3>
