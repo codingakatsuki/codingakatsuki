@@ -46,6 +46,7 @@ Generate a new ssh key and adding to the ssh agent
 Copy ssh keygen and replace your email
 Eval $(ssh-agent -s)
 Ssh-add ~/.ssh/id_rsa 
+Adding a new SSH key to your GitHub account
 Cat ~/.ssh/id_rsa.pub
 Copy key
 And pest on new ssh key
