@@ -57,6 +57,8 @@ Convert https link to ssh
 git remote set-url origin
 Git push -u origin master
 Git push
+git pull
+git pull origin master
 
 -->
 
