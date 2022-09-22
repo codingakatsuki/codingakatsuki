@@ -1,66 +1,11 @@
-<!--- readme genrator --->
-<!--- https://rahuldkjain.github.io/gh-profile-readme-generator/ --->
 
-<!--- git command 
-Git config –global user.name “firstname last name”
-Git config –global user.email “webxgrafix@gmail.com”
-Git config –global user.name
-Git config –global user.email
-Git init
-Ls -lart
-Git status
-Git add path / file                                    // file go on staging area
-Git commit        or  Git commit -m “your commit”     // fist commit is initial commit
-Touch index.html contact.html 
-Git add -A                                              // for commit all file in single click
-Git checkout index.html                         // for maching last commit or restore code
-Git checkout -f                                       // for maching all files for previous commit
-Git log                                                    // for checking all commit
-Git log -p -1                                            // for checking last 1 commit
-Q for exit
-Git diff                                                     // for comparing code from working tree
-Git diff –stage                                         // for comparing staging are to last commit
-Git commit -a -m “skip staging area and fixed”              // add and commit at same time but not recommended
-Git rm index.html // for removing staging area and delete
-Git rm –cached index.html                      // for removing staging area not using for delete and move to untracked
+**Just a Introduction:**
 
-Git status -s
+Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India completed my undergraduation from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies, Currently working in shiprocket as a Graduate Engineering Trainee. I'm Ex Chapter lead at 💻 [@girlscript jaipur](https://www.linkedin.com/showcase/girlscript-jaipur/), [@gurugram police](https://www.linkedin.com/company/haryana/lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BK5mgjdLUQtCDPzyY94K2bg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-background_details_company), Internee 👧💼. Beside's Computer Science, I love photography,cooking and playing basketball.
 
-Touch .gitignore
-Add in .gitignore
-/mylog.log                                               // for removing git ignore path there is present
-*.log                                                        // for removing all .log extension
-ignore/                                                    // for ignore directory
 
-Git branch
-Git branch firstbranch
-Git checkout firstbranch 
-Git checkout master
-Git merge firstbrach                               // for using merge branch changes
-Git branch -b secondbranch                  // for using create branch and move on it at same time
-
-Make ripo
-Git remote add origin url
-Git remote                                              // for showing remote
-Git remote -v                                          // remote url
-Go to setting and ssh and gpg key click generate ssh key to give access git to the computer
-Generate a new ssh key and adding to the ssh agent
-
-ssh-keygen -t ed25519 -C webxgrafix@gmail.com  
-Eval $(ssh-agent -s)
-Ssh-add ~/.ssh/id_rsa
-Cat ~/.ssh/id_rsa.pub
-
-Copy keyAnd pest on new ssh key
-Convert https link to ssh
-
-git remote set-url origin
-Git push -u origin master
-Git push
-git pull
-git pull origin master
-
--->
+## My GitHub contributions as a Game of Life
+[![GitHub Game of Life](https://github4life.herokuapp.com/prykdev.gif?z=6)](https://github4life.herokuapp.com/P-riyanka-prasad)
 
 
 <h1 align="center">Hi 👋, I'm Rohit Bhure</h1>
