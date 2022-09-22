@@ -1,5 +1,7 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_TKkmRRhEC6Ui9tbwmR4C-NEPuiK0rN7Iy9CjP0ShDOgUQwh_u1aZwnbr5DL-LOP_lQkzZG1RsdSTMdHPo-EohjmQPNOjHJkkL6dT7tI2_a9SSGkRkdOi6cLtZLdYcy5mQDQRCb7VKbcUJMiWO2sHUDUW4Doz9oE7MTyQjHL-RIOPisxd_fbSds83/s16000/434_furniture_web_banner_template.jpg">
 
+<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webxgrafix0fficial&label=views&color=FF0000&style=flat" alt="webxgrafix0fficial" /> </p>
 
 **Just a Introduction:**
@@ -33,6 +35,8 @@ Hi, I'm Rohit Bhure, A Student and Lerner 🚀 from Madhya Pradesh, I am passion
 <a href="https://www.instagram.com/webx_grafix/">
 <img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br>
+<hr>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=webxgrafix0fficial&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 
