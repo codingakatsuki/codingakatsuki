@@ -87,7 +87,7 @@ git pull origin master
 <p align="left">
 <a href="https://fb.com/rohitbhure05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohitbhure05" height="30" width="40" /></a>
 <a href="https://instagram.com/rohit__deginer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit__deginer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/webx grafix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webx grafix" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/webx grafix](https://www.youtube.com/channel/UCmZGTvkdnbRZ7qS7F9FgUNQ?sub_confirmation=1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webx grafix" height="30" width="40" /></a>
 <a href="https://discord.gg/x9qyZEAF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x9qyZEAF" height="30" width="40" /></a>
 </p>
 
