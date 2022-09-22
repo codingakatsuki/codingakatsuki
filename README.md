@@ -30,13 +30,7 @@ Hi, I'm Rohit Bhure, A Student and Lerner 🚀 from Madhya Pradesh, I am passion
 <a href="">
 <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/prykdev/">
-<img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/its_no_priya">
-<img align="left" alt="priyanka prasad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/devstrons/">
+<a href="https://www.instagram.com/webx_grafix/">
 <img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
