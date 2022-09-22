@@ -1,24 +1,8 @@
-### Hi there  <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="50"><br>
 
-<p align="center">
- 
- <h2 align="center">Welcome To My Repository</h2>
- <p align="center">Rohit Bhure </p>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webxgrafix0fficial&label=views&color=FF0000&style=flat" alt="webxgrafix0fficial" /> </p>
 
-
-<a href="">
-<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/prykdev/">
-<img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/its_no_priya">
-<img align="left" alt="priyanka prasad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/devstrons/">
-<img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<h1 align="center">Hi 👋, I'm Rohit Bhure</h1>
+<p align="center">I'm a passionate <strong>Full Stack Developer</strong> & <strong>UI/UX Designer</strong></p>
 
 **Just a Introduction:**
 
@@ -26,14 +10,9 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India completed m
 
 
 ## My GitHub contributions as a Game of Life
-[![GitHub Game of Life](https://github4life.herokuapp.com/prykdev.gif?z=6)](https://github4life.herokuapp.com/P-riyanka-prasad)
+[![GitHub Game of Life](https://github4life.herokuapp.com/webxgrafix0fficial.gif?z=6)](https://github4life.herokuapp.com/P-riyanka-prasad)
 
-
-<h1 align="center">Hi 👋, I'm Rohit Bhure</h1>
-<h3 align="center">I'm a passionate Full Stack Engineer and UI/UX Designer</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="webx grafix">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webxgrafix0fficial&label=views&color=0e75b6&style=flat" alt="webxgrafix0fficial" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -50,12 +29,18 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India completed m
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/rohitbhure05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohitbhure05" height="30" width="40" /></a>
-<a href="https://instagram.com/rohit__deginer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit__deginer" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/webx grafix](https://www.youtube.com/channel/UCmZGTvkdnbRZ7qS7F9FgUNQ?sub_confirmation=1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webx grafix" height="30" width="40" /></a>
-<a href="https://discord.gg/x9qyZEAF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="x9qyZEAF" height="30" width="40" /></a>
-</p>
+<a href="">
+<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/prykdev/">
+<img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/its_no_priya">
+<img align="left" alt="priyanka prasad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/devstrons/">
+<img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=webxgrafix0fficial&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 
