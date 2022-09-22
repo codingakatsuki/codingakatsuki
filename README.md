@@ -6,7 +6,7 @@
 
 **Just a Introduction:**
 
-Hi, I'm Rohit Bhure, A Student and Lerner 🚀 from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is **WebX GrafiX** in Which i will provide freelancing services like Website Development & UI/UX Design many more.
+Hi, I'm Rohit Bhure, A Student and Lerner 🚀 from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is **WebX GrafiX** in Which i will provide freelancing services like Website Development & UI/UX Design many more. Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
 
 
 ## My GitHub contributions as a Game of Life
@@ -16,7 +16,7 @@ Hi, I'm Rohit Bhure, A Student and Lerner 🚀 from Madhya Pradesh, I am passion
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👧 I’m currently partcipating in as much Hackathons as I can 
+- 👧 I’m currently partcipating in as much **Hackathons** as I can 
 
 - 🌱 I’m currently learning **MERN**
 
