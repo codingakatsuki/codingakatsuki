@@ -73,21 +73,11 @@ git pull origin master
 
 - 🔭 I’m currently working on [WebX GrafiX](https://webxgrafix.com)
 
-- 🌱 I’m currently learning **Java Script**
-<!-----
-- 👯 I’m looking to collaborate on [WebX GrafiX](https://webxgrafix.com)
-
-- 🤝 I’m looking for help with [WebX GrafiX](https://webxgrafix.com)
---->
-- 👨‍💻 All of my projects are available at [https://github.com/webxgrafix0fficial](https://github.com/webxgrafix0fficial)
+- 🌱 I’m currently learning **MERN**
 
 - 📝 I regularly write articles on [https://webxgrafix.com](https://webxgrafix.com)
 
-- 💬 Ask me about **Html , CSS , Java , C , Cpp , Linux**
-
 - 📫 How to reach me **webxgrafix@gmail.com**
-
-- 📄 Know about my experiences [https://webxgrafix.com](https://webxgrafix.com)
 
 - ⚡ Fun fact **I think I am Funny**
 
