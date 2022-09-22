@@ -71,9 +71,11 @@ git pull origin master
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [WebX GrafiX](https://webxgrafix.com)
+- 👧 I’m currently partcipating in as much Hackathons as I can 
 
 - 🌱 I’m currently learning **MERN**
+
+- 💬 Ask me about anything, I am happy to help
 
 - 📝 I regularly write articles on [https://webxgrafix.com](https://webxgrafix.com)
 
