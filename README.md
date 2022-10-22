@@ -1,6 +1,3 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_TKkmRRhEC6Ui9tbwmR4C-NEPuiK0rN7Iy9CjP0ShDOgUQwh_u1aZwnbr5DL-LOP_lQkzZG1RsdSTMdHPo-EohjmQPNOjHJkkL6dT7tI2_a9SSGkRkdOi6cLtZLdYcy5mQDQRCb7VKbcUJMiWO2sHUDUW4Doz9oE7MTyQjHL-RIOPisxd_fbSds83/s16000/434_furniture_web_banner_template.jpg">
-
-<hr>
 
 **Just a Introduction:**
 
