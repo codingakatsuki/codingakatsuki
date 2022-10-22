@@ -2,8 +2,6 @@
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webxgrafix0fficial&label=views&color=FF0000&style=flat" alt="webxgrafix0fficial" /> </p>
-
 **Just a Introduction:**
 
 Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is **WebX GrafiX** in Which i will provide freelancing services like Website Development & UI/UX Design many more. Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
