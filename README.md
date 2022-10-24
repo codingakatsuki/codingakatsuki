@@ -1,5 +1,5 @@
 <center>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiggrE0eDmJwUkHqf7CzZ_xXgG8xDYTNaooJhq21dLD0ANHYEdcf-J8oJHZD7VL3PCQwfyaFV3ac4NEoV2KZ_r15NvB6al1r3WBC2oHJO1i7xJBwodwmHiOI2ZdqloIwAZmMmWqFpri9VkOmSPnQYi5M-2M16s3f-p7FeDpkaJ_X16I1YSZfxWmrvE9/s16000/TRANSPARENT%20COLOR%20SHADOW.png" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
+<img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiggrE0eDmJwUkHqf7CzZ_xXgG8xDYTNaooJhq21dLD0ANHYEdcf-J8oJHZD7VL3PCQwfyaFV3ac4NEoV2KZ_r15NvB6al1r3WBC2oHJO1i7xJBwodwmHiOI2ZdqloIwAZmMmWqFpri9VkOmSPnQYi5M-2M16s3f-p7FeDpkaJ_X16I1YSZfxWmrvE9/s16000/TRANSPARENT%20COLOR%20SHADOW.png" style="width: 50%;">
 </center>
 
 **Just a Introduction:**
