@@ -4,7 +4,7 @@
 </center>
 
 **Just a Introduction:**
-Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is **Clever Coder** in Which i will provide freelancing services like Website Development & UI/UX Design many more. Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
+Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is **VRCoder** in Which i will provide freelancing services like Website Development & UI/UX Design many more. Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
 
 
 ## My GitHub contributions as a Game of Life
@@ -20,7 +20,7 @@ Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passio
 
 - 💬 Ask me about anything, I am happy to help
 
-- 📫 How to reach me **officialclevercoder@gmail.com**
+- 📫 How to reach me **VRCoder@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
