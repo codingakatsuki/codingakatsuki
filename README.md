@@ -40,4 +40,4 @@ Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passio
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=VRCoder-yt&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VRCoder-yt&theme=tokyonight)
-![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=VRCoder-ytl&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
+![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=VRCoder-yt&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
