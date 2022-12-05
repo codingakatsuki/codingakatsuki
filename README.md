@@ -8,11 +8,11 @@ Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passio
 
 
 ## My GitHub contributions as a Game of Life
-[![GitHub Game of Life](https://github4life.herokuapp.com/clevercoderofficial.gif?z=6)](https://github4life.herokuapp.com/P-riyanka-prasad)
+[![GitHub Game of Life](https://github4life.herokuapp.com/VRCoder-yt.gif?z=6)](https://github4life.herokuapp.com/VRCoder-yt)
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="webx grafix">
+<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="VRCoder-yt/">
 
-<p align="left"> <a href="https://twitter.com/clevercoderofficial" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/VRCoder-yt" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👧 I’m currently partcipating in as much **Hackathons** as I can 
 
