@@ -1,8 +1,3 @@
-<center>
-  <div>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimwvdgoeu2It4LESNkE5GA8a3KUaKl5jOlbZYNBNnQPDB_KdERMkH3i3_vF3lGB527Q75s_qvPpiJp6p9BOS7aJ56K0rqEk1PhVbIAhJluqYzjbnMvmE9P1vUi7aMZfjReUUL4ODDxXf8FbpkfQxiHvDyGVjt6TKaF82jCOyDvFzYmz-x20x1IhKLp/s16000/LOGO%20PNG%20T.png" width="400px" padding-top="40px"></img></div>
-</center>
-
 **Just a Introduction:**
 Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is **VRCoder** in Which i will provide freelancing services like Website Development & UI/UX Design many more. Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
 
