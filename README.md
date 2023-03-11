@@ -26,11 +26,10 @@ Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passio
 <a href="https://www.instagram.com/rohit__bhure/">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-                                                                                                                       <a href="https://www.youtube.com/@akatsukicoder?sub_confirmation=1">
+<a href="https://www.youtube.com/@akatsukicoder?sub_confirmation=1">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-                                                                                                                     
-                                                                                                                                                                                                                                            <a href="https://wa.me/918839178090?text=hello%2C%20from%20github">
+<a href="https://wa.me/918839178090?text=hello%2C%20from%20github">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br>
