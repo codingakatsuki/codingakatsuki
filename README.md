@@ -21,15 +21,15 @@ Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passio
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://discord.gg/KjRnEbf8E2">
-<img align="left" alt="akatsuki coder discord server" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<img align="left" alt="akatsuki coder discord server" target="_blank" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://www.instagram.com/rohit__bhure/">
+<a href="https://www.instagram.com/rohit__bhure/" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/@akatsukicoder?sub_confirmation=1">
+<a href="https://www.youtube.com/@akatsukicoder?sub_confirmation=1" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://wa.me/918839178090?text=hello%2C%20from%20github">
+<a href="https://wa.me/918839178090?text=hello%2C%20from%20github" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br>
