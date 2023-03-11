@@ -1,13 +1,13 @@
 **Just a Introduction:**
-Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is **Akatsuki Coder** in Which i will provide freelancing services like Website Development & UI/UX Design many more. Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
+Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is **VRCoder** in Which i will provide freelancing services like Website Development & UI/UX Design many more. Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
 
 
 ## My GitHub contributions as a Game of Life
-[![GitHub Game of Life](https://github4life.herokuapp.com/akatsukicoder.gif?z=6)](https://github4life.herokuapp.com/codingakatsuki)
+[![GitHub Game of Life](https://github4life.herokuapp.com/vrcoderyt.gif?z=6)](https://github4life.herokuapp.com/codingakatsuki)
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="akatsukicoder">
+<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="vrcoderyt">
 
-<p align="left"> <a href="https://twitter.com/akatsukicoder" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vrcoderyt" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👧 I’m currently partcipating in as much **Hackathons** as I can 
 
@@ -15,18 +15,18 @@ Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passio
 
 - 💬 Ask me about anything, I am happy to help
 
-- 📫 How to reach me **akatsukicoder@gmail.com**
+- 📫 How to reach me **vrcoderyt@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://discord.gg/KjRnEbf8E2">
-<img align="left" alt="akatsuki coder discord server" target="_blank" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<img align="left" alt="vrcoder discord server" target="_blank" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.instagram.com/rohit__bhure/" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/@akatsukicoder?sub_confirmation=1" target="_blank">
+<a href="https://www.youtube.com/@vrcoderyt?sub_confirmation=1" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://wa.me/918839178090?text=hello%2C%20from%20github" target="_blank">
@@ -40,5 +40,5 @@ Hi, I'm Rohit Bhure, A Student and Learner 🚀 from Madhya Pradesh, I am passio
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=maurodesouza" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=codingakatsuki" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=vrcoderyt" height="150" alt="languages graph"  />
 </div>
