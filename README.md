@@ -16,8 +16,7 @@
 </a>
 <a href="https://wa.me/918839178090?text=hello%2C%20from%20github" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-                                                                                                                      <input type="file"></input>                                                                                                           
+</a>                                                                                                  
 <br>
 <hr>
 <div align="center">
