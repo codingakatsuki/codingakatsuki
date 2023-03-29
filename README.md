@@ -1,6 +1,6 @@
 **Just a Introduction:**
 
-Hi, I'm Rohit Bhure, A Student and Learner rocket from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is VRCoder in Which i will provide freelancing services like Website Development & UI/UX Design many more. Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
+Hi, I'm Rohit Bhure, A Student and Learner from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is VRCoder in Which i will provide freelancing services like Website Development & UI/UX Design many more. Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
 
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/vrcoderyt.gif?z=6)](https://github4life.herokuapp.com/codingakatsuki)
