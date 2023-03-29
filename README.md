@@ -1,5 +1,23 @@
+**Just a Introduction:**
+
+Hi, I'm Rohit Bhure, A Student and Learner rocket from Madhya Pradesh, I am passionate about technology and want to learn & explore new technologies, currently i started my own startup which is VRCoder in Which i will provide freelancing services like Website Development & UI/UX Design many more. Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
+
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/vrcoderyt.gif?z=6)](https://github4life.herokuapp.com/codingakatsuki)
+
+**Talking about Personal Stuffs:**
+
+- 👧 I’m currently partcipating in as much Hackathons as I can 
+- 🌱 I’m currently learning MERN
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me:webxgrafix@gmail.com
+
+## My Contributions
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=vrcoderyt&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+
+<!--![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)-->
+
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="vrcoderyt">
 <p align="left"> <a href="https://twitter.com/vrcoderyt" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -27,3 +45,4 @@
 
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=vrcoderyt" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=vrcoderyt" height="150" alt="languages graph"  />
+![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=vrcoder&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
