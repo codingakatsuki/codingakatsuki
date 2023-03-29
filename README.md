@@ -27,5 +27,3 @@
 
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=vrcoderyt" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=vrcoderyt" height="150" alt="languages graph"  />
-<img src="https://camo.githubusercontent.com/f4181e726ddfb1baba9349f3e1e20dc840202b3287163b11622b9cf918b84e7c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7072796b646576267468656d653d746f6b796f6e696768742672696e673d44443237323726666972653d444432373237266375727253747265616b4e756d3d363639354536" alt="ReadMe Card" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=vrcoderyt&amp;theme=tokyonight&amp;ring=DD2727&amp;fire=DD2727&amp;currStreakNum=6695E6" style="max-width: 100%;"></a></p>
-</div>
