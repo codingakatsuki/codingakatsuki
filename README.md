@@ -5,6 +5,8 @@ Hi, I'm Rohit Bhure, A Student and Learner rocket from Madhya Pradesh, I am pass
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/vrcoderyt.gif?z=6)](https://github4life.herokuapp.com/codingakatsuki)
 
+<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="vrcoderyt">
+
 **Talking about Personal Stuffs:**
 
 - 👧 I’m currently partcipating in as much Hackathons as I can 
@@ -19,7 +21,7 @@ Hi, I'm Rohit Bhure, A Student and Learner rocket from Madhya Pradesh, I am pass
 <!--![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)-->
 
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="vrcoderyt">
+
 <p align="left"> <a href="https://twitter.com/vrcoderyt" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -45,4 +47,3 @@ Hi, I'm Rohit Bhure, A Student and Learner rocket from Madhya Pradesh, I am pass
 
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=vrcoderyt" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=vrcoderyt" height="150" alt="languages graph"  />
-![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=vrcoder&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
