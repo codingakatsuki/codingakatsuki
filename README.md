@@ -14,14 +14,6 @@ Hi, I'm Rohit Bhure, A Student and Learner from Madhya Pradesh, I am passionate 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me:webxgrafix@gmail.com
 
-## My Contributions
-
-  <img src="https://activity-graph.herokuapp.com/graph?username=vrcoderyt&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
-
-<!--![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)-->
-
-
-
 <p align="left"> <a href="https://twitter.com/vrcoderyt" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
