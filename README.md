@@ -5,7 +5,7 @@ Hi, I'm **Rohit Bhure**, A Student and Learner from Madhya Pradesh, I am passion
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/vrcoderyt.gif?z=6)](https://github4life.herokuapp.com/codingakatsuki)
 
-<img align="right" width="400" src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://fuertedevelopers.com/assets/img/aboutus.gif)" alt="vrcoderyt">
+<img align="right" width="400" src="https://fuertedevelopers.com/assets/img/aboutus.gif" alt="vrcoderyt">
 
 **Talking about Personal Stuffs:**
 
