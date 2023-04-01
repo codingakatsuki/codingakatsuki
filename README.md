@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=download&id=1l5XSU81ziJ8I-5HmGQiyUMiRlB4XNtZg" alt=""vrcoder-yt>
+<img src="https://drive.google.com/uc?export=download&id=1l5XSU81ziJ8I-5HmGQiyUMiRlB4XNtZg" alt="vrcoder-yt">
 
 **Just a Introduction:**
 
