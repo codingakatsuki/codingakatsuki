@@ -2,7 +2,7 @@
 
 **Just a Introduction:**
 
-Hi, I'm **Rohit Bhure**, A passionate computer science student pursuing his B.Tech degree. With a keen interest in programming,Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
+Hi, I'm **Rohit Bhure**, A passionate computer science student pursuing B.Tech degree. With a keen interest in programming,Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
 
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/vrcoderyt.gif?z=6)](https://github4life.herokuapp.com/codingakatsuki)
