@@ -1,8 +1,6 @@
-<img src="https://drive.google.com/uc?export=download&id=1l5XSU81ziJ8I-5HmGQiyUMiRlB4XNtZg" alt="vrcoder-yt">
-
 **Just a Introduction:**
 
-Hi, I'm **Rohit Bhure**, A passionate computer science student pursuing B.Tech degree. With a keen interest in programming,Beside's Computer Science, i love Watching Anime & photography, traveling, listening music
+Passionate Btech student with a keen interest in website development, eager to build engaging user experiences and create visually appealing websites.
 
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/rohitbhure65.gif?z=6)](https://github4life.herokuapp.com/codingakatsuki)
