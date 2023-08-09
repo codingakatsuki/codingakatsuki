@@ -20,11 +20,11 @@ Passionate Btech student with a keen interest in web development, eager to build
 <a href="https://discord.gg/KjRnEbf8E2">
 <img align="left" alt="vrcoder discord server" target="_blank" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://www.youtube.com/@vrcoderyt?sub_confirmation=1" target="_blank">
+<a href="https://www.youtube.com/@rohitbhure65?sub_confirmation=1" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://wa.me/918839178090?text=hello%2C%20from%20github" target="_blank">
-<img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+<a href="[https://wa.me/918839178090?text=hello%2C%20from%20github](https://www.linkedin.com/in/rohitbhure65/)" target="_blank">
+<img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>                                                                                                  
 <br>
 <hr>
