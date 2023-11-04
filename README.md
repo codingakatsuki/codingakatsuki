@@ -12,7 +12,7 @@ Passionate Btech student with a keen interest in web development, eager to build
 - 👧 I’m currently partcipating in as much **Hackathons** as I can 
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me:webxgrafix@gmail.com
+- 📫 How to reach me:rohitbhure.cse@gmail.com
 
 <p align="left"> <a href="https://twitter.com/vrcoderyt" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
