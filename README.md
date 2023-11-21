@@ -18,8 +18,12 @@ Passionate Btech student with a keen interest in web development, eager to build
 <p align="left"> <a href="https://twitter.com/vrcoderyt" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+
+<a href="https://t.me/Rohitbhure65">
+<img align="left" alt="@DevDiveofficial twitter handle" target="_blank" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <a href="https://discord.gg/KjRnEbf8E2">
-<img align="left" alt="@DevDiveofficial discord server" target="_blank" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<img align="left" alt="@DevDiveofficial discord server" target="_blank" | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.youtube.com/@DevDiveofficial?sub_confirmation=1" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
