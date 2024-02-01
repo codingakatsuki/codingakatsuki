@@ -20,17 +20,20 @@ Passionate Btech student with a keen interest in web development, eager to build
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://t.me/Rohitbhure65">
-<img align="left" alt="@DevDiveofficial twitter handle" target="_blank" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="@Developer Rohit twitter handle" target="_blank" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://discord.gg/KjRnEbf8E2">
-<img align="left" alt="@DevDiveofficial discord server" target="_blank" | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<img align="left" alt="@Developer Rohitdiscord server" target="_blank" | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://www.youtube.com/@DevDiveofficial?sub_confirmation=1" target="_blank">
+<a href="https://www.youtube.com/@developerrohit123?sub_confirmation=1" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="[https://wa.me/918839178090?text=hello%2C%20from%20github](https://www.linkedin.com/in/rohitbhure65/)" target="_blank">
+<a href="https://wa.me/918839178090?text=hello%2C%20from%20github" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>                                                                                                  
+</a>           
+<a href="https://leetcode.com/rohitbhure65/" target="_blank">
+<img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>            
 <br>
 <hr>
 <div align="center">
