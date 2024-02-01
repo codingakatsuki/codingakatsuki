@@ -12,8 +12,8 @@ Passionate Btech student with a keen interest in web development, eager to build
 - 👧 I’m currently partcipating in as much **Hackathons** as I can 
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me:rohitbhure.cse@gmail.com
-- 📃 Resume : <a href="https://drive.google.com/file/d/16UiMnuq4WILs24wvX5Vjjl2B0vh7f9dM/view?usp=sharing">Rohit Bhure</a>
+- 📫 How to reach me: rohitbhure.cse@gmail.com
+- 📃 Resume : <a href="https://drive.google.com/file/d/1o5xMR_sARdYfrz6rvDtiXLqRCVxprDdA/view?usp=sharing">Rohit Bhure</a>
 
 <p align="left"> <a href="https://twitter.com/vrcoderyt" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
