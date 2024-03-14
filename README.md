@@ -31,7 +31,7 @@ Passionate Btech student with a keen interest in web development, eager to build
 <a href="https://www.linkedin.com/in/rohitbhure65/" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>           
-<a href="https://leetcode.com/rohitbhure65/" target="_blank">
+<a href="https://leetcode.com/rohit_bhure/" target="_blank">
 <img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>            
 <br>
