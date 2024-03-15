@@ -19,7 +19,7 @@ Passionate Btech student with a keen interest in web development, eager to build
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://t.me/Rohitbhure65">
+<a href="https://twitter.com/rohitbhure65">
 <img align="left" alt="@Developer Rohit twitter handle" target="_blank" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://discord.gg/KjRnEbf8E2">
