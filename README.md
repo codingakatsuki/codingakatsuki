@@ -13,7 +13,7 @@ Passionate Btech student with a keen interest in web development, eager to build
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: rohitbhure.cse@gmail.com
-- 📃 Resume : <a href="https://drive.google.com/file/d/15dMqMv6rC3-ZEBdLSzvhQNUSHN_aFtRK/view?usp=sharing" target="_blank">Rohit Bhure</a>
+- 📃 Resume : <a href="https://drive.google.com/file/d/1yXMQYzM40rOHiI7-PgUc3gMr13VmTEX0/view?usp=sharing" target="_blank">Rohit Bhure</a>
 
 <p align="left"> <a href="https://twitter.com/vrcoderyt" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -81,5 +81,23 @@ Passionate Btech student with a keen interest in web development, eager to build
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitbhure65&show_icons=true&locale=en&layout=compact" alt="rohitbhure65" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitbhure65&show_icons=true&locale=en" alt="rohitbhure65" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbhure65&" alt="rohitbhure65" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbhure65" alt="rohitbhure65" /></p>
 
+
+
+<!----------------------------------- Top Projects Section ------------------------------------>
+
+<h2><i>Top Projects</i></h2>
+
+
+<p>
+    <a href="https://github.com/rohitbhure65/renteaserooms.com">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitbhure65&repo=renteaserooms.com&locale=en&border_radius=0&theme=light" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/rohitbhure65/stock-price-prediction">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitbhure65&repo=stock-price-prediction&locale=en&border_radius=0&theme=light"" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/rohitbhure65/digitalprojecthub.com">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitbhure65&repo=digitalprojecthub.com&locale=en&border_radius=0&theme=light" alt="m-sehrawat" />
+    </a>
+</p>
