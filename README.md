@@ -97,7 +97,4 @@ Passionate Btech student with a keen interest in web development, eager to build
     <a href="https://github.com/rohitbhure65/stock-price-prediction">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitbhure65&repo=stock-price-prediction&locale=en&border_radius=0&theme=light"" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/rohitbhure65/digitalprojecthub.com">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitbhure65&repo=digitalprojecthub.com&locale=en&border_radius=0&theme=light" alt="m-sehrawat" />
-    </a>
 </p>
