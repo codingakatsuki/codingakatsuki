@@ -82,19 +82,3 @@ Passionate Btech student with a keen interest in web development, eager to build
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitbhure65&show_icons=true&locale=en&layout=compact" alt="rohitbhure65" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitbhure65&show_icons=true&locale=en" alt="rohitbhure65" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbhure65" alt="rohitbhure65" /></p>
-
-
-
-<!----------------------------------- Top Projects Section ------------------------------------>
-
-<h2><i>Top Projects</i></h2>
-
-
-<p>
-    <a href="https://github.com/rohitbhure65/renteaserooms.com">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitbhure65&repo=renteaserooms.com&locale=en&border_radius=0&theme=light" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/rohitbhure65/stock-price-prediction">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitbhure65&repo=stock-price-prediction&locale=en&border_radius=0&theme=light"" alt="m-sehrawat" />
-    </a>
-</p>
