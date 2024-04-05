@@ -15,25 +15,16 @@ Passionate Btech student with a keen interest in web development, eager to build
 - 📫 How to reach me: rohitbhure.cse@gmail.com
 - 📃 Resume : <a href="https://drive.google.com/file/d/1yXMQYzM40rOHiI7-PgUc3gMr13VmTEX0/view?usp=sharing" target="_blank">Rohit Bhure</a>
 
-<p align="left"> <a href="https://twitter.com/vrcoderyt" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://twitter.com/rohitbhure65">
-<img align="left" alt="@Developer Rohit twitter handle" target="_blank" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.twitter.com/rohitbhure65" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/rohitbhure65?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917" alt="Twitter Follow Badge" />
 </a>
-<a href="https://discord.gg/KjRnEbf8E2">
-<img align="left" alt="@Developer Rohitdiscord server" target="_blank" | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://www.youtube.com/@developerrohit123?sub_confirmation=1" target="_blank">
-<img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rohitbhure65/" target="_blank">
-<img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>           
-<a href="https://leetcode.com/rohit_bhure/" target="_blank">
-<img align="left" alt="rohit bhure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>            
+<a href="https://leetcode.com/rohit_bhure" target="_blank" rel="noreferrer"><img 
+src="https://img.shields.io/badge/LeetCode-Follow-green?style=for-the-badge&logo=leetcode&labelColor=1c1917&color=facc15" alt="LeetCode Follow Badge" 
+/></a>
+<a href="https://www.linkedin.com/in/rohitbhure65" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=1c1917&color=facc15" alt="LinkedIn Connect Badge" 
+/></a>
+   
 <br>
 <hr>
 <div align="center">
@@ -80,5 +71,5 @@ Passionate Btech student with a keen interest in web development, eager to build
 ###
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitbhure65&show_icons=true&locale=en&layout=compact" alt="rohitbhure65" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitbhure65&show_icons=true&locale=en" alt="rohitbhure65" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbhure65" alt="rohitbhure65" /></p>
+<a href="http://www.github.com/rohitbhure65"><img src="https://github-readme-stats.vercel.app/api?username=rohitbhure65&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="achalbajpai's GitHub stats" /></a>
+<a href="http://www.github.com/rohitbhure65"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbhure65&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
