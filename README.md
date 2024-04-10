@@ -66,8 +66,8 @@ src="https://img.shields.io/badge/LeetCode-Follow-green?style=for-the-badge&logo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
@@ -84,5 +84,5 @@ src="https://img.shields.io/badge/LeetCode-Follow-green?style=for-the-badge&logo
 ###
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitbhure65&show_icons=true&locale=en&layout=compact" alt="rohitbhure65" /></p>
-<a href="http://www.github.com/rohitbhure65"><img src="https://github-readme-stats.vercel.app/api?username=rohitbhure65&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="achalbajpai's GitHub stats" /></a>
+<a href="http://www.github.com/rohitbhure65"><img src="https://github-readme-stats.vercel.app/api?username=rohitbhure65&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="rohitbhure65's GitHub stats" /></a>
 <a href="http://www.github.com/rohitbhure65"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbhure65&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
