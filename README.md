@@ -13,7 +13,7 @@ Passionate Btech student with a keen interest in web development, eager to build
 - 🌱 I’m currently learning **MERN & DSA**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: rohitbhure.cse@gmail.com
-- 📃 Resume : <a href="https://drive.google.com/file/d/1yXMQYzM40rOHiI7-PgUc3gMr13VmTEX0/view?usp=sharing" target="_blank">Rohit Bhure</a>
+- 📃 Resume : <a href="https://drive.google.com/file/d/1yXMQYzM40rOHiI7-PgUc3gMr13VmTEX0/view?usp=sharing" target="_blank">Rohit Bhure Resume</a>
 
 <a href="https://www.twitter.com/rohitbhure65" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/rohitbhure65?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917" alt="Twitter Follow Badge" />
