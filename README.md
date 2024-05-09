@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhure</h1>
 
-## 🚀 About Me
+## 🚀 About Mee
 
 Passionate Btech student with a keen interest in web development, eager to build engaging user experiences and create visually appealing websites.
 
