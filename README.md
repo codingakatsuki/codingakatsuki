@@ -7,7 +7,7 @@ Passionate Btech student with a keen interest in web development, eager to build
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/rohitbhure65.gif?z=6)](https://github4life.herokuapp.com/codingakatsuki)
 
-<img align="right" width="400" src="https://fuertedevelopers.com/assets/img/aboutus.gif" alt="vrcoderyt">
+<img align="right" width="400" src="https://github.com/rohitbhure65/DSA-WITH-CPP/blob/master/coder.gif" alt="developer rohit">
 
 **Talking about Personal Stuffs:**
 
@@ -15,7 +15,7 @@ Passionate Btech student with a keen interest in web development, eager to build
 - 🌱 I’m currently learning **MERN, DSA & AI/ML**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: rohitbhure.cse@gmail.com
-- 📃 Resume : <a href="https://drive.google.com/file/d/1yXMQYzM40rOHiI7-PgUc3gMr13VmTEX0/view?usp=sharing" target="_blank">Rohit Bhure Resume</a>
+- 📃 Resume : <a href="https://drive.google.com/file/d/1tkFyb-0ybH70edG5SNVQ13ydiY5uMKsp/view?usp=sharing" target="_blank">Rohit Bhure CV</a>
 
 <a href="https://www.twitter.com/rohitbhure65" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/rohitbhure65?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917" alt="Twitter Follow Badge" />
