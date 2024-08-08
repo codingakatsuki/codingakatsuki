@@ -12,7 +12,7 @@ Passionate Btech student with a keen interest in web development, eager to build
 **Talking about Personal Stuffs:**
 
 - 👧 I’m currently partcipating in as much **Hackathons** as I can 
-- 🌱 I’m currently learning **MERN, DSA & AI/ML**
+- 🌱 I’m currently learning **MERN & DSA**
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: rohitbhure.cse@gmail.com
 - 📃 Resume : <a href="https://drive.google.com/uc?export=download&id=1y1XZGzkUJglOTc3ef1gOlAaqJ53xbHVD" target="_blank">Rohit Bhure RESUME</a>
