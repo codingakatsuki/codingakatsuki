@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rohitbhure65">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,php,mysql,mongodb,linux,bash,git,github,react,express,nodejs,nextjs,vscode,postman,powershell&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,php,mysql,mongodb,linux,bash,git,github,react,express,nodejs,nextjs,python,vscode,postman,powershell,photoshop,illustrator&theme=dark&perline=10" />
   </a>
 </p>
 
